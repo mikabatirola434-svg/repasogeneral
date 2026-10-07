@@ -1,21 +1,21 @@
-Actividad 6 - Repaso y Consolidación en C++
-Materia: Laboratorio de Programación (LPR)
-Curso: 5° 3° A-B
+Actividad 6 - Taller Práctico de Repaso y Consolidación en C++
+Laboratorio de Programación (LPR) — 5° 3° A-B
 Año: 2026
 
 Integrantes
 Nombre y apellido: Mikaela Batirola
-Retos
-Reto 1 - Recursividad
-Implementación de una función recursiva para realizar una suma acumulada, utilizando un caso base.
+Menú de retos
+Reto 1 — Recursividad
+Suma recursiva utilizando un caso base.
 
-Reto 2 - Búsqueda secuencial
-Recorrido de un arreglo para encontrar un valor determinado, utilizando break para detener la búsqueda cuando se encuentra.
+Reto 2 — Búsqueda secuencial
+Búsqueda de un valor dentro de un arreglo utilizando break.
 
-Reto 3 - Punteros
-Intercambio de dos valores mediante punteros, direcciones de memoria (&) y desreferenciación (*).
+Reto 3 — Punteros e intercambio
+Intercambio de valores mediante direcciones de memoria y punteros.
 
-Estructura
+Estructura del repositorio
+<pre>
 repasogeneral/
 ├── .gitignore
 ├── LICENSE
@@ -23,10 +23,18 @@ repasogeneral/
 ├── docs/
 │   ├── InformeEEST1_LPR2026_ACT06_G99_Informe_v1.0.0.pdf
 │   ├── manuales/
+│   │   ├── manual_programador_v1.0.0.pdf
+│   │   └── manual_usuario_v1.0.0.pdf
 │   └── CHANGELOG.md
 ├── src/
 │   └── main.cpp
 └── capturas/
+    ├── ejecucion_repasogeneral.png
+    └── traza_memoria.png
+</pre>
+
+Objetivo
+Repasar y aplicar conceptos de programación de bajo nivel relacionados con recursividad, búsqueda secuencial, memoria y punteros.
 
 Compilación
 g++ src/main.cpp -o src/repasogeneral.exe
