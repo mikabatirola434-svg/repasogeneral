@@ -21,7 +21,7 @@ int main() {
 
 
     // --- RETO 2: ARRAYS Y BÚSQUEDA SECUENCIAL ---
-    cout << "\n=== RETO 2: BÚSQUEDA EN MEMORIA CONTIGUA ===" << endl;
+    cout << "\n=== RETO 2: BUSQUEDA EN MEMORIA CONTIGUA ===" << endl;
 
     const int TAM = 10;
 
