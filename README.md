@@ -3,15 +3,15 @@ Laboratorio de Programación (LPR) — 5° 3° A-B
 Año: 2026
 
 Integrantes
-Nombre y apellido: Mikaela Batirola
-Menú de retos
-Reto 1 — Recursividad
+* **Nombre y apellido: Mikaela Batirola
+### Menú de retos
+* **Reto 1 — Recursividad
 Suma recursiva utilizando un caso base.
 
-Reto 2 — Búsqueda secuencial
+* **Reto 2 — Búsqueda secuencial
 Búsqueda de un valor dentro de un arreglo utilizando break.
 
-Reto 3 — Punteros e intercambio
+* **Reto 3 — Punteros e intercambio
 Intercambio de valores mediante direcciones de memoria y punteros.
 
 Estructura del repositorio
