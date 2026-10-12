@@ -6,13 +6,13 @@ Año: 2026
 * **Nombre y apellido:** Mikaela Batirola
 ### Menú de retos
 * **Reto 1 — Recursividad**
-  Suma recursiva utilizando un caso base.
+<br>Suma recursiva utilizando un caso base.
 
 * **Reto 2 — Búsqueda secuencial**
-Búsqueda de un valor dentro de un arreglo utilizando break.
+<br>Búsqueda de un valor dentro de un arreglo utilizando break.
 
 * **Reto 3 — Punteros e intercambio**
-Intercambio de valores mediante direcciones de memoria y punteros.
+<br>Intercambio de valores mediante direcciones de memoria y punteros.
 
 Estructura del repositorio
 <pre>
