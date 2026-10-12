@@ -1,6 +1,6 @@
-Actividad 6 - Taller Práctico de Repaso y Consolidación en C++
-Laboratorio de Programación (LPR) — 5° 3° A-B
-Año: 2026
+# Actividad 6 - Taller Práctico de Repaso y Consolidación en C++
+### Laboratorio de Programación (LPR) — 5° 3° A-B
+**Año:** 2026
 
 ### Integrantes
 * **Nombre y apellido:** Mikaela Batirola
