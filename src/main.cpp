@@ -1,3 +1,15 @@
+/* 
+   ====================================================================
+   Materia: Laboratorio de Programación (LPR) — 5°
+   Institución: "Escuela de Educación Técnica N.° 1 "Eduardo Ader"" - Vicente López
+   Archivo: src/main.cpp
+   Actividad 6: Suite de Taller de Repaso e Integración
+   ====================================================================
+*/
+
+
+
+
 #include <iostream>
 using namespace std;
 
